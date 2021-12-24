@@ -15,4 +15,4 @@ def moveElementToEnd(array, toMove):
     return array
 
 
-print(moveElementToEnd([1, 3, 2, 4, 2, 2, 2], 2))
+print(moveElementToEnd([1, 2, 2, 2, 3, 2, 4], 2))
